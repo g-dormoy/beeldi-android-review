@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeeldiTest</string>
+    <string name="equipment_fault_number">%1$d défaut</string>
+    <string name="equipment_fault_number_plural">%1$d défauts</string>
+    <string name="technical_error_positive_button">RÉESSAYER</string>
+</resources>
